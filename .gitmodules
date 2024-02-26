@@ -1,6 +1,6 @@
 [submodule "Marlin"]
 	path = Marlin
-	url = git@github.com:St0rmingBr4in/Marlin.git
+	url = git@github.com:4public/Marlin.git
 [submodule "lufa"]
 	path = lufa
 	url = git@github.com:St0rmingBr4in/lufa.git
